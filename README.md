@@ -18,7 +18,7 @@
   <img align="center" alt="lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
 </div><br/>
 
-## Ferramentas para Desenho/Design 📝
+## Ferramentas para Desenho/Design 🖌
 
 <div style="display: inline_block">
   <img align="center" alt="krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />
