@@ -1,6 +1,9 @@
-## Olá! Meu nome é Maria Eduarda Cordeiro e estou aprendendo novas tecnologias!
+## Olá! Meu nome é Maria Eduarda Cordeiro e estou aprendendo novas tecnologias! Gosto de desenhar 🖌 e programar 👨‍💻 algumas coisas por aí...
 
-## Tecnologias que eu teho interesse de aprender
+
+
+
+## Tecnologias que eu tenho interesse de aprender 💻
 
 <div style="display: inline_block">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -9,7 +12,7 @@
 
 </div><br/>
 
-## Tecnologias que eu estou aprendendo atualmente
+## Tecnologias que eu estou aprendendo atualmente 📝
 
 <div style="display: inline_block">
   <img align="center" alt="lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
