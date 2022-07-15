@@ -1,7 +1,5 @@
 ## Olá! Meu nome é Maria Eduarda Cordeiro e estou aprendendo novas tecnologias! Gosto de desenhar 🖌 e programar 👨‍💻 algumas coisas por aí...
-
-
-
+<br/><br/>
 
 ## Tecnologias que eu tenho interesse de aprender 💻
 
